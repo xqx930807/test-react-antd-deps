@@ -3,7 +3,7 @@ node_js: "4"
 
 # S: Build Lifecycle
 before_install:
-  - npm begin
+  - npm run begin
   
 install:
   - npm install
