@@ -1,0 +1,23 @@
+{
+  "name": "test-react-antd-deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xqx930807/test-react-antd-deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xqx930807/test-react-antd-deps/issues"
+  },
+  "homepage": "https://github.com/xqx930807/test-react-antd-deps#readme",
+  "keywords": [],
+  "dependencies": {
+    "antd": "1.11.x",
+  }
+}
