@@ -9,4 +9,4 @@ install:
   - npm install
   
 script:
-  - echo "end to build"
+  - npm run print && echo "end to build"
